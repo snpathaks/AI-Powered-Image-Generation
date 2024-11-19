@@ -4,7 +4,7 @@
 This Jupyter notebook based project demonstrates a basic AI-powered image generation technique using a combination of pre-trained models including InceptionV3 and CLIP.
 
 ## Prerequisites
-- Python 3.8+
+- Python 3.12+
 - TensorFlow
 - Transformers
 - OpenCV (cv2)
